@@ -9,3 +9,6 @@ If two words have the same counter, they are sorted alphabetically.
 A word is anything that is separated by non alphanumeric constants. If a word has " or ' then it is considered part of a word.
 
 The symaary file will be created in the same directory as the input file
+
+
+startApplication is the main class
